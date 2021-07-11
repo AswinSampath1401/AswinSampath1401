@@ -55,13 +55,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AswinSampath1401&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align='center'>
 <img src="https://badges.pufler.dev/years/AswinSampath1401"/>
 <img src="https://badges.pufler.dev/repos/AswinSampath1401"/>
 <img src="https://badges.pufler.dev/commits/monthly/AswinSampath1401"/>
+<p>
 
-<br>
-
- <img src="https://img.shields.io/badge/-Aswin Sampath-crimson?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ash_1401//" />
-<img src="https://img.shields.io/badge/-aswinsampath-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinsampath1401@gmail.com" />
-<img src="https://img.shields.io/badge/-Aswin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Aswin-Sampath-1713201ab//" />
-<img src="https://img.shields.io/badge/-AswinSampath-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Samriddhi981" />
+<p align='center'>
+<img src="https://img.shields.io/badge/-Aswin Sampath-crimson?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ash_1401//" >
+<img src="https://img.shields.io/badge/-aswinsampath-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinsampath1401@gmail.com" >
+<img src="https://img.shields.io/badge/-Aswin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Aswin-Sampath-1713201ab//">
+<img src="https://img.shields.io/badge/-AswinSampath-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/i_am_Ash_" />
+</p>
